@@ -123,7 +123,7 @@ Material:
     - _ReceiveShadows: 1
     - _Scale: 1
     - _ScaleWobble: 0.02
-    - _ScaleWobbleSpeed: 0.01
+    - _ScaleWobbleSpeed: 0.002
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1

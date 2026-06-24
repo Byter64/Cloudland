@@ -124,9 +124,13 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
+    - _Stripeband0_Height: 3000
+    - _Stripeband0_Size: 1000
+    - _Stripeband1_Height: 6000
+    - _Stripeband1_Size: 1000
     - _StripebandHeight: 3082
-    - _StripebandHeightFluctuation: 1000
-    - _StripebandSize: 1849.3
+    - _StripebandHeightFluctuation: 10000
+    - _StripebandSize: 2000
     - _Surface: 0
     - _WorkflowMode: 1
     - _XRMotionVectorsPass: 1
